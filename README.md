@@ -17,9 +17,9 @@ Neste repositório você irá encontrar a documentação completa de todo este p
 Explore os princípios que fundamentam a criação desta plataforma.
 
 <ul>
-  <li><a href="misc/media/Documentação/Versão de Novembro de 2024/Documentação_OpenVoice_Novembro2024.pdf">Documentação em PDF</a></li>
-  <li><a href="misc/diagramas">Pasta de Diagramas</a></li>
-  <li><a href="misc/wireframes">Pasta de Wireframes</a></li>
+  <li><a href="Documentação/Versão de Novembro de 2024/Documentação_OpenVoice_Novembro2024.pdf">Documentação em PDF</a></li>
+  <li><a href="Diagramas">Pasta de Diagramas</a></li>
+  <li><a href="Wireframes">Pasta de Wireframes</a></li>
 </ul>
 
 ## Logos
